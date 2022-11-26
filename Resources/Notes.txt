@@ -1,0 +1,92 @@
+
+Why we need threads?
+1. Responsiveness of application
+2. Performance of application
+
+
+Examples of Poor Responsiveness
+. Waiting for Customer Support
+. Late response from person
+. No feedback from application
+
+
+Responsiveness is particularly critical in applications with a user interface.
+Responsiveness can be achieved by using multiple threads, with seprate thread for each task.
+Generally very hard to achieve otherwise.
+
+
+Concurrency - Multitasking 
+Achieved by multi-tasking between threads.
+concurrency=multithreading
+
+note: we don't need multiple core to achieve concurrency.
+
+
+2. Performance
+
+We can create   an illusion of multiple tasks executing in parallel using just single core.
+With multiple cores we can truly run tasks completely in parallel
+Completing a complex task much faster.
+Finish more work in the same period of time.
+for high scale service:-
+    . Fewer machine
+    . Less money spent on hardware
+    . more money in your pocket.
+
+
+
+Responsiveness: Concurrency
+Performance: Parallelism
+
+Multithreaded programming is fundamentally different from single 
+threaded programming.
+
+
+Each Process may have one or more threads.
+
+ContextSwitch cost:
+
+context switch is not cheap, and is the price of multitasking(concurrency)
+Each threads consumes resources in the CPU and memory.
+
+Too many threads- Thrashing, spending more time in management than real productive work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
