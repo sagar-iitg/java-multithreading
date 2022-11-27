@@ -52,6 +52,21 @@ Each threads consumes resources in the CPU and memory.
 Too many threads- Thrashing, spending more time in management than real productive work.
 
 
+Threads consume resources
+. Memory and kernel resources
+. CPU Cycles and cache memory
+
+
+If a thread finished its work, but the application is still running,
+we want to clean up the thread's resources.
+
+If thread is misbehaving we want to stop it.
+
+
+
+
+
+
 
 
 
