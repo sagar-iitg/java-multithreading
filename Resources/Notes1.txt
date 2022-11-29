@@ -50,6 +50,13 @@ running time v/s # of Threads
 
 Thread Lifecycle
 
+    1. New State.
+    2. 
+
+
+
+
+
 
 
 
