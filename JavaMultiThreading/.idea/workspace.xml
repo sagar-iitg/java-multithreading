@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e3cd5ea-fe11-4ac4-bd0f-0aa9fdeed56c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Resources/Notes1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Resources/Notes1.txt" afterDir="false" />
-    </list>
+    <list default="true" id="4e3cd5ea-fe11-4ac4-bd0f-0aa9fdeed56c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +35,13 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Example12 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example12" />
+  <component name="RunManager" selected="Application.MultiThreading">
+    <configuration name="Example17 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example17" />
       <module name="JavaMultiThreading" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example12" />
+    <configuration name="Example17 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example17" />
       <module name="JavaMultiThreading" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example13" />
+    <configuration name="Example17 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example17" />
       <module name="JavaMultiThreading" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example14" />
+    <configuration name="Example17 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example17" />
       <module name="JavaMultiThreading" />
       <extension name="coverage">
         <pattern>
@@ -93,20 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="MultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread1.MultiThreading" />
       <module name="JavaMultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sk.thread1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Example14" />
-        <item itemvalue="Application.Example13" />
-        <item itemvalue="Application.Example12" />
-        <item itemvalue="Application.Example12 (1)" />
+        <item itemvalue="Application.MultiThreading" />
+        <item itemvalue="Application.Example17 (5)" />
+        <item itemvalue="Application.Example17 (4)" />
+        <item itemvalue="Application.Example17 (3)" />
+        <item itemvalue="Application.Example17 (2)" />
       </list>
     </recent_temporary>
   </component>
