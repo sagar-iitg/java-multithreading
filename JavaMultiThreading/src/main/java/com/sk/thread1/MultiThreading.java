@@ -3,6 +3,7 @@ package com.sk.thread1;
 public class MultiThreading implements Runnable{
     @Override
     public void run() {
+       // super("hello");
         System.out.println("new Thread  "+ Thread.currentThread().getName());
 
     }
