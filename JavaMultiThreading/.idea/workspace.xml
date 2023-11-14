@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3cd5ea-fe11-4ac4-bd0f-0aa9fdeed56c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +21,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/com/sk/thread/Example6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/sk/thread/Example6.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2I4dQeMrjG46Zi8Ist19BbGTuYE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,9 +52,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MonitorLockExample">
-    <configuration name="Example17 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example17" />
+  <component name="RunManager" selected="Application.Example (1)">
+    <configuration name="Example (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example" />
       <module name="JavaMultiThreading" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example17 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example17" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sk.thread.Example" />
       <module name="JavaMultiThreading" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example (1)" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.MonitorLockExample" />
         <item itemvalue="Application.MultiThreading" />
         <item itemvalue="Application.Example17 (5)" />
-        <item itemvalue="Application.Example17 (4)" />
-        <item itemvalue="Application.Example17 (3)" />
       </list>
     </recent_temporary>
   </component>
