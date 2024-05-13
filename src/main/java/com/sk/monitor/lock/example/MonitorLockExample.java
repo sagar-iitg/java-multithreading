@@ -1,8 +1,14 @@
 package com.sk.monitor.lock.example;
 
+import com.sk.thread.Example;
+
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+
 public class MonitorLockExample {
 
-
+    private static final Logger logger = Logger.getLogger(MonitorLockExample.class.getName());
     public synchronized void task1(){
 
         try{
@@ -11,6 +17,7 @@ public class MonitorLockExample {
         }catch (Exception e)
         {
             //exception handling here
+           logger.log(Level.SEVERE,"in catch block",e);
 
         }
 
