@@ -18,7 +18,7 @@ A process is instance of program execution.
 
 for example when you open a software (Paint, Excel , WebBrowser etc) - these are distinct process
 
-The Operating system assigns distinct registers, stack memory, and heap memory to every single process.
+The Operating system assigns distinct registers, stack memory, code segment, data segment and heap memory to every single process.
 
 In java we can create process with the ProcessBuilder class.
 
