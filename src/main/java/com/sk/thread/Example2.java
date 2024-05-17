@@ -7,8 +7,11 @@ public class Example2
 
 
         Thread t= new NewThread();
+        System.out.println(t.getState());
         t.setName("now-now");
+        System.out.println(t.getState());
         t.start();
+        System.out.println(t.getState());
     }
 
     private static class NewThread extends  Thread
