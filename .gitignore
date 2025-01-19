@@ -3,3 +3,4 @@
 target/
 *.class
 JavaMultiThreading.iml
+.DS_Store
